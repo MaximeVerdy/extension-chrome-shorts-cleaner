@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Shorts Cleaner",
-  "version": "1.0.1",
+  "name": "Youtube Shorts Cleaner",
+  "version": "1.0.2",
   "description": "Remove all the Shorts videos from the Youtube thread",
   "author": "Maxime Verdy",
   "icons": {
